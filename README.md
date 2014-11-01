@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--"<!DOCTYPE html>
 <html>
 <head>
 <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
@@ -11,4 +11,4 @@
   <img src="http://cdn.wikimg.net/strategywiki/images/f/f2/Galaga_Flagship1.png" id="commander">
   <img src="http://cdn.wikimg.net/strategywiki/images/7/7e/Galaga_Flagship2.png" id="commander">
 </body>
-</html>
+</html>"-->
