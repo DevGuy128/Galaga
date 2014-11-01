@@ -1,0 +1,22 @@
+#ship{
+  position:fixed;
+  top:800px;
+  left:200px;
+  display:none;
+}
+#start{
+  position:fixed;
+  top:400px;
+  left:960px;
+  width:100px;
+  height:100px;
+  background-color:blue;
+  color:red;
+  font-family:"Courier New"
+}
+#commander{
+  position:fixed;
+  top:800px;
+  width:50px;
+  display:none;
+}
